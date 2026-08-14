@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ghande.aternos.me",
-    "port": 30510,
+    "ip": "gs_xsl.aternos.me",
+    "port": 45445,
     "version": "",
     "try-creative": false
   },
